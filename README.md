@@ -54,9 +54,10 @@ _**Tech enthusiast | Software Developer | Cloud Explorer | AI Advocate**_
    
 ---
 
-### 💌 **Click below for a welcome message!**
+## 📖 Guestbook
+> Visited my profile? Leave a message! 👇
 
-[![Welcome Image](https://raw.githubusercontent.com/Asadullahx4/Asadullah/050af925fd168885d37c055816169a276bdb0b2d/download.png)](mailto:iasadullah04@gmail.com?subject=Welcome%20to%20my%20GitHub%20profile!&body=Hi%20there,%0A%0AWelcome%20to%20my%20GitHub%20profile!%20I'm%20Asadullah%2C%20a%20final-year%20Computer%20Systems%20student%20at%20Riga%20Technical%20University.%20Feel%20free%20to%20connect%20with%20me%20for%20collaborations%20and%20tech%20discussions.%20%0A%0ABest%2C%20Asadullah%0A)
+[![Sign Guestbook](https://img.shields.io/badge/📖-Sign%20My%20Guestbook-00ff88?style=for-the-badge)].(file:///C:/Users/iasad/Downloads/guestbook.html)
 
 
 ---
