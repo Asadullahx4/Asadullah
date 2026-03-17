@@ -23,7 +23,8 @@ _**Tech enthusiast | Software Developer | Cloud Explorer | AI Advocate**_
 
 ---
 
-### 📂 **Current Projects**  
+### 📂 **Current Projects** 
+
 - Building **cloud-based solutions** that scale.
 - Exploring real-time data processing with **AI**.
 
@@ -43,6 +44,14 @@ _**Tech enthusiast | Software Developer | Cloud Explorer | AI Advocate**_
 ### 🏅 Fun Fact
 - Sports lover and always up for a tech challenge! ⚽🏀 
 
+
+---
+
+
+## 🐍 Play My Snake Game
+   [![Play Snake](https://img.shields.io/badge/Play-Snake%20Game-00ff88?style=for-the-badge)](https://asadullahx4.github.io/snake-game/)
+
+   
 ---
 
 ### 💌 **Click below for a welcome message!**
@@ -55,8 +64,6 @@ _**Tech enthusiast | Software Developer | Cloud Explorer | AI Advocate**_
 ### 📱 **Contact Me**  
 [![Email](https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white)](mailto:iasadullah04@gmail.com)  
 [![Phone](https://img.shields.io/badge/Phone-%2B37126219910-green?logo=phone&logoColor=white)](tel:+37126219910)
-
-
 
 
 ---
