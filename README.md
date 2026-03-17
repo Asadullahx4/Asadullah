@@ -52,3 +52,34 @@ _**Tech enthusiast | Software Developer | Cloud Explorer | AI Advocate**_
 ---
 
 _"Code is like humor. When you have to explain it, it’s bad."_ - Cory House
+
+
+
+---
+
+## 🎮 Fun Game: Guess the Number!
+
+Try to guess the number I’m thinking of between 1 and 10! Here's a simple game in Python:
+
+```python
+import random
+
+def guess_the_number():
+    number = random.randint(1, 10)
+    guess = None
+    attempts = 0
+
+    print("Welcome to Guess the Number!")
+    print("I’m thinking of a number between 1 and 10.")
+
+    while guess != number:
+        guess = int(input("Enter your guess: "))
+        attempts += 1
+        if guess < number:
+            print("Too low! Try again.")
+        elif guess > number:
+            print("Too high! Try again.")
+        else:
+            print(f"Congratulations! You've guessed the right number {number} in {attempts} attempts.")
+
+guess_the_number()
