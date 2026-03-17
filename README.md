@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm **Asadullah**!  
 
 ### **Learning to build cool things with code** 🌱  
-_**Tech enthusiast | Software Developer | Cloud Explorer | AI Advocate**_
+_**Tech enthusiast | Software Developer | Cloud Explorer | AI Advocate**
 
 ---
 
