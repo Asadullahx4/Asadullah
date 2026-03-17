@@ -40,8 +40,8 @@ _**Tech enthusiast | Software Developer | Cloud Explorer | AI Advocate**_
 
 ---
 
-### 💬 **Fun Fact**  
-- **Sports lover** and always ready for a **tech challenge**!  
+### 🏅 Fun Fact
+- Sports lover and always up for a tech challenge! ⚽🏀 
 
 ---
 
