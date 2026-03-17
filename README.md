@@ -49,15 +49,8 @@ _**Tech enthusiast | Software Developer | Cloud Explorer | AI Advocate**_
 [![Email](https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white)](mailto:iasadullah04@gmail.com)  
 [![Phone](https://img.shields.io/badge/Phone-%2B37126219910-green?logo=phone&logoColor=white)](tel:+37126219910)
 
----
-
 ### 💌 **Click below for a welcome message!**
 
-### 💌 **Click below for a welcome message!**
-
-[![<img width="225" height="225" alt="download" src="https://github.com/user-attachments/assets/027c25cb-6dd1-4797-a43d-4cfcfdb56faf" />
-](mailto:iasadullah04@gmail.com?subject=Welcome%20to%20my%20GitHub%20profile!&body=Hi%20there,%0A%0AWelcome%20to%20my%20GitHub%20profile!%20I'm%20Asadullah%2C%20a%20final-year%20Computer%20Systems%20student%20at%20Riga%20Technical%20University.%20Feel%20free%20to%20connect%20with%20me%20for%20collaborations%20and%20tech%20discussions.%20%0A%0ABest%2C%20Asadullah%0A)
-
-
+[![Welcome Image](https://raw.githubusercontent.com/Asadullahx4/Asadullah/main/f54732aa-c370-4096-ad0c-7e5e8009b7d2.png)](mailto:iasadullah04@gmail.com?subject=Welcome%20to%20my%20GitHub%20profile!&body=Hi%20there,%0A%0AWelcome%20to%20my%20GitHub%20profile!%20I'm%20Asadullah%2C%20a%20final-year%20Computer%20Systems%20student%20at%20Riga%20Technical%20University.%20Feel%20free%20to%20connect%20with%20me%20for%20collaborations%20and%20tech%20discussions.%20%0A%0ABest%2C%20Asadullah%0A)
 ---
 _"Code is like humor. When you have to explain it, it’s bad."_ - Cory House
