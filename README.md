@@ -5,6 +5,10 @@ _**Tech enthusiast | Software Developer | Cloud Explorer | AI Advocate**_
 
 ---
 
+### I'm a final-year Computer Systems student at **Riga Technical University** (RTU), passionate about building cool things with code and learning new tech every day. 🌱
+
+---
+
 ### 🚀 **Current Focus**
 - **Software Development** (Python, Cloud, AI)
 - Diving deep into **Cloud Computing** and **Artificial Intelligence**.
