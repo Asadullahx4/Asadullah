@@ -67,6 +67,8 @@ _**Tech enthusiast | Software Developer | Cloud Explorer | AI Advocate**_
 
 [![Phone](https://img.shields.io/badge/Phone-%2B37126219910-green?logo=phone&logoColor=white)](tel:+37126219910)
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+37126219910)
+
 
 ---
 _"Code is like humor. When you have to explain it, it’s bad."_ - Cory House
