@@ -16,7 +16,7 @@ _**Tech enthusiast | Software Developer | Cloud Explorer | AI Advocate**_
 ---
 
 ### 💻 **Skills & Technologies**  
-- **Languages**: `Python`, `SQL`, `JavaScript`
+- **Languages**: `Python`, `HTML`, `SQL`, `JavaScript`
 - **Cloud**: `Oracle Cloud`, `AWS`
 - **Tools**: `Git`, `Linux`, `Docker`
 - **Interests**: **AI**, **Machine Learning**, **Full-stack Development**
