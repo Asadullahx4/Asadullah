@@ -65,9 +65,9 @@ _**Tech enthusiast | Software Developer | Cloud Explorer | AI Advocate**_
 ### 📱 **Contact Me**  
 [![Email](https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=iasadullah04@gmail.com)
 
-[![Phone](https://img.shields.io/badge/Phone-%2B37126219910-green?logo=phone&logoColor=white)](tel:+37126219910)
-
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+37126219910)
+
+[![Phone](https://img.shields.io/badge/Phone-%2B37126219910-green?logo=phone&logoColor=white)](tel:+37126219910)
 
 
 ---
